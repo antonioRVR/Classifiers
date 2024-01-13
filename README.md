@@ -7,3 +7,5 @@ The aim of this assignment is to understand how a classifier works internally an
 2 Binary Linear Classifier with logistic regression and gradient descent.
 
 3 Multiclass Classifier.
+
+All the classifiers are displayed together in "clasificadores.py" with some use examples
